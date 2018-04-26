@@ -1,7 +1,3 @@
-CSSDone() {
-    console.log("CSS Works");
-}
-
 body {
   background-color: sandybrown;
 }
